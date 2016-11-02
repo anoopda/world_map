@@ -27,7 +27,8 @@
     "babel-core": "^6.17.0",
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
-    "nodemon": "^1.11.0"
+    "nodemon": "^1.11.0",
+    "jasmine": "^2.5.2	
   },
   "browser": {
     "fs": "false"
